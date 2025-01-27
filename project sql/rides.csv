@@ -1,0 +1,6 @@
+RideID,UserID,DriverID,PickupLocation,DropLocation,FareAmount
+1,1,1,"MG Road",Indiranagar,200.00
+2,2,2,Koramangala,Whitefield,150.00
+3,3,3,"Electronic City","Silk Board",120.00
+4,4,4,Majestic,Yeshwanthpur,300.00
+5,5,5,Hebbal,Airport,500.00
